@@ -34,6 +34,10 @@ The first column showcases the actual images, while the second column displays h
 - Vinicius Kaster Marini (UFSM)
 - Celio Trois (UFSM)
 
+### Funding 
+
+This research project was made financially feasible through funding from Wageningen University & Research, initiated and supported by the Sectoral Research Fund for Agriculture of the Kingdom of the Netherlands.
+
 ### Acknowledgement
 
 This dataset is the result of a collaborative effort involving several institutions and researchers. The key contributors from various organizations are as follows:
