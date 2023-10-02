@@ -29,7 +29,7 @@ The first column showcases the actual images, while the second column displays h
 
 ### Authors
 
-- Raul Steimetz (UFSM)
+- Raul Steinmetz (UFSM)
 - Henrique Liesenfield Krever (UFSM)
 - Vinicius Kaster Marini (UFSM)
 - Celio Trois (UFSM)
